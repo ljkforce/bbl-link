@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.app_a",
+      "package_name": "com.bbl.mobilebanking",
       "sha256_cert_fingerprints": [
-        "TODO:AA:BB:CC:DD:EE:FF:00:11:22:33:44:55:66:77:88:99:AA:BB:CC:DD:EE:FF:00:11:22:33:44:55:66:77:88"
+        "3E:26:AB:6B:D0:06:A9:86:EA:98:19:06:AB:C7:25:9A:0F:A8:B7:6B:66:F5:64:B0:9E:43:71:3C:6A:81:FD:C7"
       ]
     }
   },

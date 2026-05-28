@@ -1,0 +1,24 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "TODO_TEAM_ID_A.com.example.app-a",
+          "TODO_TEAM_ID_B.com.example.app-b"
+        ],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Both apps handle all paths — iOS shows disambiguation if both installed"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "TODO_TEAM_ID_A.com.example.app-a",
+      "TODO_TEAM_ID_B.com.example.app-b"
+    ]
+  }
+}

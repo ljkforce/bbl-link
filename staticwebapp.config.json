@@ -1,0 +1,39 @@
+{
+  "routes": [
+    {
+      "route": "/.well-known/apple-app-site-association",
+      "headers": {
+        "Content-Type": "application/json",
+        "Cache-Control": "no-cache, no-store"
+      }
+    },
+    {
+      "route": "/.well-known/assetlinks.json",
+      "headers": {
+        "Content-Type": "application/json",
+        "Cache-Control": "no-cache, no-store"
+      }
+    }
+  ],
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": [
+      "/.well-known/*",
+      "/config.js",
+      "/*.js",
+      "/*.css",
+      "/*.png",
+      "/*.jpg",
+      "/*.ico",
+      "/*.svg"
+    ]
+  },
+  "globalHeaders": {
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  },
+  "mimeTypes": {
+    ".json": "application/json"
+  }
+}

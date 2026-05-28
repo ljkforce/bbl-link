@@ -3,8 +3,8 @@
     "details": [
       {
         "appIDs": [
-          "TODO_TEAM_ID_A.com.example.app-a",
-          "TODO_TEAM_ID_B.com.example.app-b"
+          "com.bangkokbankpilot.mbanking",
+          "com.bangkokbankpilot.ncbd"
         ],
         "components": [
           {
@@ -17,8 +17,8 @@
   },
   "webcredentials": {
     "apps": [
-      "TODO_TEAM_ID_A.com.example.app-a",
-      "TODO_TEAM_ID_B.com.example.app-b"
+      "com.bangkokbankpilot.mbanking",
+      "com.bangkokbankpilot.ncbd"
     ]
   }
 }

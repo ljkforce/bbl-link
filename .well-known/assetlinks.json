@@ -13,9 +13,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.app_b",
+      "package_name": "com.bbl.democoreuseapp",
       "sha256_cert_fingerprints": [
-        "TODO:AA:BB:CC:DD:EE:FF:00:11:22:33:44:55:66:77:88:99:AA:BB:CC:DD:EE:FF:00:11:22:33:44:55:66:77:88"
+        "61:C2:36:CF:64:19:D2:5A:62:48:3D:D4:27:00:5E:1A:DB:A6:D2:48:0E:45:BC:A2:9C:75:E3:72:98:78:7F:7D"
       ]
     }
   }

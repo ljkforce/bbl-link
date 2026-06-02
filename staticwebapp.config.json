@@ -2,8 +2,8 @@
   "routes": [
     {
       "route": "/.well-known/apple-app-site-association",
+      "rewrite": "/.well-known/apple-app-site-association.json",
       "headers": {
-        "Content-Type": "application/json",
         "Cache-Control": "no-cache, no-store"
       }
     },

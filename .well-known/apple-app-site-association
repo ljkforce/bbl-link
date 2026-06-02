@@ -12,13 +12,24 @@
             "comment": "Both apps handle all paths — iOS shows disambiguation if both installed"
           }
         ]
-      }
+      },
+      {
+        "appIDs": [
+          "RJ664MK8R5.com.fiserv.appA.App-A",
+          "RJ664MK8R5.com.fiserv.appA.App-B"
+        ],
+        "paths":[
+          "/test/*"
+        ]
+        }
     ]
   },
   "webcredentials": {
     "apps": [
       "com.bangkokbankpilot.mbanking",
-      "com.bangkokbankpilot.ncbd"
+      "com.bangkokbankpilot.ncbd",
+      "RJ664MK8R5.com.fiserv.appA.App-A",
+      "RJ664MK8R5.com.fiserv.appA.App-B"
     ]
   }
 }

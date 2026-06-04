@@ -2,13 +2,11 @@
   "applinks": {
     "details": [
       {
-        "appIDs": [
-          "RJ664MK8R5.com.fiserv.appA.App-A",
-          "RJ664MK8R5.com.fiserv.appA.App-B"
-        ],
-        "paths":[
-          "/test/*"
-        ]
+        "appID": "RJ664MK8R5.com.fiserv.appA.App-A",
+        "paths":["*"]
+      },
+       { "appID": "RJ664MK8R5.com.fiserv.appA.App-B",
+        "paths":["*"]
       }
     ]
   }

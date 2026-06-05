@@ -205,7 +205,8 @@
 
       if (isIOS) {
         // Universal Link handled by OS when app is installed.
-        // This page loads only when the app is NOT installed.
+        // This page loads only when the app is NOT installed — redirect straight to App Store.
+        window.location.href = fallback.ios.storeUrl;
         showStoreLinks(fallback.ios.storeUrl, null);
 
       } else if (isAndroid) {

@@ -6,7 +6,7 @@ window.APP_CONFIG = {
   appA: {
     name: "App A",                                          // TODO: display name
     ios: {
-      storeUrl: "https://apps.apple.com/app/idTODO_APP_ID_A", // TODO: App Store URL
+      storeUrl: "https://apps.apple.com/us/app/id660238716", // TODO: App Store URL
       scheme: "app-a://",                                   // TODO: custom URL scheme
     },
     android: {

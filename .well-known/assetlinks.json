@@ -5,7 +5,7 @@
       "namespace": "android_app",
       "package_name": "com.bbl.mobilebanking",
       "sha256_cert_fingerprints": [
-        "3E:26:AB:6B:D0:06:A9:86:EA:98:19:06:AB:C7:25:9A:0F:A8:B7:6B:66:F5:64:B0:9E:43:71:3C:6A:81:FD:C7"
+        "3E:26:AB:6B:D0:06:A9:86:EA:98:19:06:AB:C7:25:9A:OF:A8:B7:6B:66:F5:64:B0:9E:43:71:3C:6A:81:FD:C7"
       ]
     }
   },
@@ -13,9 +13,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.bbl.democoreuseapp",
+      "package_name": "com.example.fiserv.apptoappdemo",
       "sha256_cert_fingerprints": [
-        "45:07:B9:4C:98:BA:8D:B9:01:E4:B0:2E:48:FA:64:F8:DD:81:55:A2:F6:49:64:CC:66:91:0F:FB:C0:B5:9F:21"
+        "3E:26:AB:6B:DO:06:A9:86:EA:98:19:06:AB:C7:25:9A:0F:A8:B7:6B:66:F5:64:B0:9E:43:71:3C:6A:81:FD:C7"
       ]
     }
   }

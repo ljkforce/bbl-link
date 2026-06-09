@@ -7,6 +7,10 @@
       {
         "appID": "TYKAJ25BMD.com.fiserv.appA.App-A",
         "paths":["*"]
+      },
+      {
+        "appID": "com.bangkokbankpilot.mbanking",
+        "paths":["*"]
       }
     ]
   }

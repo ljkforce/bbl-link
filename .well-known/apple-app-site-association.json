@@ -11,6 +11,10 @@
       {
         "appID": "TYKAJ25BMD.com.bangkokbankpilot.mbankingg",
         "paths":["*"]
+      },
+      {
+        "appID": "727K5FKASY.com.bangkokbankpilot.mbankingg",
+        "paths":["*"]
       }
     ]
   }

@@ -1,11 +1,11 @@
 {
   "applinks": {
     "details": [
-       { "appID": "TYKAJ25BMD.com.fiserv.appB.App-B",
-        "paths":["*"]
-      },
       {
         "appID": "TYKAJ25BMD.com.fiserv.appA.App-A",
+        "paths":["*"]
+      },
+       { "appID": "TYKAJ25BMD.com.fiserv.appB.App-B",
         "paths":["*"]
       },
       {

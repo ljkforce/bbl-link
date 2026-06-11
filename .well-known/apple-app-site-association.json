@@ -1,20 +1,29 @@
 {
   "applinks": {
     "details": [
-      { "appID": "TYKAJ25BMD.com.fiserv.appB.App-B",
-        "paths":["*"]
+      {
+        "appID": "TYKAJ25BMD.com.fiserv.appB.App-B",
+        "paths": [
+          "*"
+        ]
       },
       {
         "appID": "TYKAJ25BMD.com.fiserv.appA.App-A",
-        "paths":["*"]
+        "paths": [
+          "*"
+        ]
       },
       {
         "appID": "TYKAJ25BMD.com.bangkokbankpilot.mbankingg",
-        "paths":["*"]
+        "paths": [
+          "*"
+        ]
       },
       {
         "appID": "727K5FKASY.com.bangkokbankpilot.mbankingg",
-        "paths":["*"]
+        "paths": [
+          "*"
+        ]
       }
     ]
   }
